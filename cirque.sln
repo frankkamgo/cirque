@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cirque", "cirque\cirque.csproj", "{98F32CBC-A25A-40FD-BA3F-AA275452AF6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98F32CBC-A25A-40FD-BA3F-AA275452AF6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F32CBC-A25A-40FD-BA3F-AA275452AF6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F32CBC-A25A-40FD-BA3F-AA275452AF6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F32CBC-A25A-40FD-BA3F-AA275452AF6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12BE7807-1FEB-4416-BA16-F1DCB4D564A2}
+	EndGlobalSection
+EndGlobal
